@@ -1,5 +1,5 @@
 ### Hi there 👋
-#                                         I'm Onidajo_anu Fikayo Wale-Olaitana
+#                                         I'm Onidajo_anu Fikayo Wale-Olaitan
 
 - 🔭 I’m currently working on a project to build a data pipeline using Dagster 
 - 🌱 I’m currently learning to be a Data Engineer at Explore AI
