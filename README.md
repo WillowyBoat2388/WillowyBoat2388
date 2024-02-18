@@ -2,7 +2,7 @@
 #                                         I'm Onidajo_anu Fikayo Wale-Olaitan
 
 - 🔭 I’m currently working on a project to build a data pipeline using Dagster 
-- 🌱 I’m currently learning to be a Data Engineer at Explore AI
+- 🌱 I’m currently a Data Engineer at iHealth & Wellness Foundation
 - ⚡ Fun fact: I love cryptocurrencies and possibilities of the blockchain
 - 📫 How to reach me: onidajo99@gmail.com
 
