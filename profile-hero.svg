@@ -1,63 +1,124 @@
-<!-- profile-hero.svg — save this as profile-hero.svg in repo root -->
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Profile hero">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="400" viewBox="0 0 1200 400">
   <defs>
-    <linearGradient id="g1" x1="0" x2="1">
-      <stop offset="0%" stop-color="#050a30" stop-opacity="0.98"/>
-      <stop offset="100%" stop-color="#3d12a6" stop-opacity="0.98"/>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050a30"/>
+      <stop offset="100%" stop-color="#3d12a6"/>
     </linearGradient>
-    <filter id="s" x="-20%" y="-20%" width="140%" height="140%">
-      <feDropShadow dx="0" dy="8" stdDeviation="18" flood-color="#000000" flood-opacity="0.10"/>
-    </filter>
-    <style>
-      .h1{font:700 36px/1.05 'Segoe UI', Roboto, system-ui; fill:#f4f6fc}
-      .h2{font:600 18px/1.1 'Segoe UI', Roboto, system-ui; fill:#f4f6fc}
-      .tag{font:600 13px/1 'Segoe UI', Roboto; fill:#050a30}
-      .pill{font:600 13px/1 'Segoe UI', Roboto; fill:#050a30}
-      .muted{font:400 13px/1 'Segoe UI', Roboto; fill:#f4f6fc}
-    </style>
+    
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f4f6fc" stop-opacity="0.1"/>
+      <stop offset="100%" stop-color="#f4f6fc" stop-opacity="0.05"/>
+    </linearGradient>
   </defs>
 
-  <rect width="1200" height="360" rx="18" fill="url(#g1)" filter="url(#s)"/>
-
-  <g transform="translate(48,48)">
-    <text x="0" y="0" class="h1">👋 Hi — I’m Onidajo Fikayo (Fikayo)</text>
-    <text x="0" y="46" class="h2">Data & Platform Engineer · Architect</text>
-
-    <rect x="-6" y="66" width="520" height="66" rx="10" fill="#f4f6fc" opacity="0.06"/>
-    <text x="8" y="92" class="muted">I build reliable data platforms and production pipelines — focused on reproducibility, observability, and developer experience.</text>
-
-    <g transform="translate(0,112)">
-      <rect x="0" y="0" width="110" height="28" rx="8" fill="#f4f6fc" opacity="0.12"/>
-      <text x="14" y="19" class="pill">Python</text>
-
-      <rect x="126" y="0" width="120" height="28" rx="8" fill="#f4f6fc" opacity="0.10"/>
-      <text x="144" y="19" class="pill">Polars · DuckDB</text>
-
-      <rect x="262" y="0" width="120" height="28" rx="8" fill="#f4f6fc" opacity="0.10"/>
-      <text x="280" y="19" class="pill">Dagster · Airflow</text>
-
-      <rect x="398" y="0" width="120" height="28" rx="8" fill="#f4f6fc" opacity="0.10"/>
-      <text x="416" y="19" class="pill">K8s · Terraform</text>
+  <!-- Background -->
+  <rect width="1200" height="400" rx="16" fill="url(#bg)"/>
+  
+  <!-- Main Content Container -->
+  <g transform="translate(40,40)">
+    
+    <!-- Header Section -->
+    <g>
+      <text x="0" y="32" fill="#f4f6fc" font-family="Segoe UI, system-ui, sans-serif" font-size="42" font-weight="700">
+        👋 Hi — I'm Onidajo Fikayo (Fikayo)
+      </text>
+      <text x="0" y="68" fill="#f4f6fc" font-family="Segoe UI, system-ui, sans-serif" font-size="22" font-weight="500" opacity="0.9">
+        Data &amp; Platform Engineer · Architect
+      </text>
+    </g>
+    
+    <!-- Description Card -->
+    <g transform="translate(0,90)">
+      <rect width="740" height="80" rx="12" fill="url(#cardBg)" stroke="#f4f6fc" stroke-width="1" stroke-opacity="0.2"/>
+      <text x="24" y="32" fill="#f4f6fc" font-family="Segoe UI, system-ui, sans-serif" font-size="16" font-weight="400" opacity="0.9">
+        <tspan x="24" dy="0">I build reliable data platforms and production pipelines — focused on</tspan>
+        <tspan x="24" dy="24">reproducibility, observability, and developer experience.</tspan>
+      </text>
+    </g>
+    
+    <!-- Skills Section -->
+    <g transform="translate(0,190)">
+      <text x="0" y="20" fill="#f4f6fc" font-family="Segoe UI, system-ui, sans-serif" font-size="14" font-weight="600" opacity="0.8">
+        CORE TECHNOLOGIES
+      </text>
+      
+      <g transform="translate(0,35)">
+        <!-- Python -->
+        <rect x="0" y="0" width="130" height="36" rx="18" fill="#f4f6fc"/>
+        <text x="65" y="24" fill="#050a30" font-family="Segoe UI, system-ui, sans-serif" font-size="14" font-weight="600" text-anchor="middle">
+          Python
+        </text>
+        
+        <!-- Polars & DuckDB -->
+        <rect x="145" y="0" width="160" height="36" rx="18" fill="#3d12a6"/>
+        <text x="225" y="24" fill="#f4f6fc" font-family="Segoe UI, system-ui, sans-serif" font-size="14" font-weight="600" text-anchor="middle">
+          Polars · DuckDB
+        </text>
+        
+        <!-- Dagster & Airflow -->
+        <rect x="320" y="0" width="170" height="36" rx="18" fill="#f4f6fc" opacity="0.9"/>
+        <text x="405" y="24" fill="#050a30" font-family="Segoe UI, system-ui, sans-serif" font-size="14" font-weight="600" text-anchor="middle">
+          Dagster · Airflow
+        </text>
+        
+        <!-- K8s & Terraform -->
+        <rect x="505" y="0" width="160" height="36" rx="18" fill="#3d12a6" opacity="0.8"/>
+        <text x="585" y="24" fill="#f4f6fc" font-family="Segoe UI, system-ui, sans-serif" font-size="14" font-weight="600" text-anchor="middle">
+          K8s · Terraform
+        </text>
+      </g>
     </g>
   </g>
-
-  <g transform="translate(720,52)">
-    <text x="0" y="0" class="tag">Top strengths</text>
-
-    <rect x="0" y="18" width="260" height="18" rx="9" fill="#f4f6fc" opacity="0.06"/>
-    <rect x="0" y="18" width="200" height="18" rx="9" fill="#f4f6fc" opacity="0.14"/>
-    <text x="0" y="54" class="muted">Platform Design • high-traffic systems</text>
-
-    <rect x="0" y="74" width="260" height="18" rx="9" fill="#f4f6fc" opacity="0.06"/>
-    <rect x="0" y="74" width="180" height="18" rx="9" fill="#f4f6fc" opacity="0.14"/>
-    <text x="0" y="110" class="muted">Data Pipelines • low-latency transforms</text>
-
-    <rect x="0" y="130" width="260" height="18" rx="9" fill="#f4f6fc" opacity="0.06"/>
-    <rect x="0" y="130" width="220" height="18" rx="9" fill="#f4f6fc" opacity="0.14"/>
-    <text x="0" y="166" class="muted">Developer DX & Automation</text>
+  
+  <!-- Strengths Sidebar -->
+  <g transform="translate(800,40)">
+    <rect width="320" height="280" rx="12" fill="#f4f6fc" fill-opacity="0.08" stroke="#f4f6fc" stroke-width="1" stroke-opacity="0.15"/>
+    
+    <text x="24" y="32" fill="#f4f6fc" font-family="Segoe UI, system-ui, sans-serif" font-size="14" font-weight="600" opacity="0.8">
+      TOP STRENGTHS
+    </text>
+    
+    <!-- Strength 1 -->
+    <g transform="translate(24,55)">
+      <rect width="270" height="8" rx="4" fill="#f4f6fc" opacity="0.15"/>
+      <rect width="220" height="8" rx="4" fill="#f4f6fc"/>
+      <text x="0" y="28" fill="#f4f6fc" font-family="Segoe UI, system-ui, sans-serif" font-size="15" font-weight="600">
+        Platform Design
+      </text>
+      <text x="0" y="46" fill="#f4f6fc" font-family="Segoe UI, system-ui, sans-serif" font-size="13" opacity="0.7">
+        High-traffic distributed systems
+      </text>
+    </g>
+    
+    <!-- Strength 2 -->
+    <g transform="translate(24,115)">
+      <rect width="270" height="8" rx="4" fill="#f4f6fc" opacity="0.15"/>
+      <rect width="240" height="8" rx="4" fill="#3d12a6"/>
+      <text x="0" y="28" fill="#f4f6fc" font-family="Segoe UI, system-ui, sans-serif" font-size="15" font-weight="600">
+        Data Pipelines
+      </text>
+      <text x="0" y="46" fill="#f4f6fc" font-family="Segoe UI, system-ui, sans-serif" font-size="13" opacity="0.7">
+        Low-latency data transforms
+      </text>
+    </g>
+    
+    <!-- Strength 3 -->
+    <g transform="translate(24,175)">
+      <rect width="270" height="8" rx="4" fill="#f4f6fc" opacity="0.15"/>
+      <rect width="200" height="8" rx="4" fill="#f4f6fc" opacity="0.8"/>
+      <text x="0" y="28" fill="#f4f6fc" font-family="Segoe UI, system-ui, sans-serif" font-size="15" font-weight="600">
+        Developer Experience
+      </text>
+      <text x="0" y="46" fill="#f4f6fc" font-family="Segoe UI, system-ui, sans-serif" font-size="13" opacity="0.7">
+        Automation &amp; tooling
+      </text>
+    </g>
   </g>
-
-  <g transform="translate(48,254)">
-    <text x="0" y="0" class="muted">Links — bdatanet.tech · Substack · YouTube · LinkedIn</text>
+  
+  <!-- Footer Links -->
+  <g transform="translate(40,360)">
+    <text x="0" y="16" fill="#f4f6fc" font-family="Segoe UI, system-ui, sans-serif" font-size="14" opacity="0.7">
+      🔗 bdatanet.tech · Substack · YouTube · LinkedIn
+    </text>
   </g>
 </svg>
