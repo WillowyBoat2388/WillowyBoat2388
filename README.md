@@ -24,7 +24,19 @@
 # About Me
 I design and operate scalable data infrastructure and platforms — with a particular focus on fast, resilient pipelines, clean data models for analytics, and automation that keeps teams shipping confidently. I enjoy mentoring, documenting architecture clearly, and turning complex data flows into repeatable, trustworthy systems.
 
-**Brand voice:** confident · explanatory · complementary · collaborative
+- 💼 Co-founder at [Beyond Data Networks](https://beyonddatanetworks.com)  
+- ✍🏽 I write on [Beyond Data Networks Blog](https://beyonddatanetworks.substack.com/)  
+- 🎥 I share ideas on my [YouTube channel](https://www.youtube.com/@thetradingmentality1804)  
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/fikayowaleolaitan/)
+
+---
+
+### Tech snapshot
+<img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=333&style=for-the-badge" alt="Python" />
+<img src="https://img.shields.io/badge/Polars-2EC866?style=for-the-badge" alt="Polars" />
+<img src="https://img.shields.io/badge/DuckDB-3399FF?style=for-the-badge" alt="DuckDB" />
+<img src="https://img.shields.io/badge/Dagster-7A5CFF?style=for-the-badge" alt="Dagster" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&style=for-the-badge" alt="Kubernetes" />
 
 ---
 
@@ -70,109 +82,32 @@ I design and operate scalable data infrastructure and platforms — with a parti
 - **Developer DX** — introduced devcontainers, Kapstan-like tooling, and CI patterns for reproducible developer environments and faster iterations.
 
 (See pinned repos on my profile for code samples and architecture docs.)
+## 🚀 Featured Projects  
+
+<p align="center">
+  <a href="https://github.com/WillowyBoat2388/football-analytics">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WillowyBoat2388&repo=football-analytics&theme=dark" />
+  </a>
+  <a href="https://github.com/WillowyBoat2388/Airflow_Snowflake_pipeline">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WillowyBoat2388&repo=Airflow_Snowflake_pipeline&theme=dark" />
+  </a>
+  <a href="https://github.com/WillowyBoat2388/Bellabeat-Case-Study">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=WillowyBoat2388&repo=Bellabeat-Case-Study&theme=dark" />
+  </a>
+</p>
 
 ---
 
-# Hobbies & side projects
-- Teaching: short videos & articles on data engineering best practices (see [YouTube] and [Blog]).  
-- Music: play bass, occasional studio sessions.  
-- Trading psychology & systems (personal interest / research).
-
----
-
-# Social / Contact
-- Firm: [Beyond Data Networks — bdatanet.tech](https://bdatanet.tech)  
-- Blog: [Beyond Data Networks — Substack](https://beyonddatanetworks.substack.com/)  
-- YouTube: [The Trading Mentality](https://www.youtube.com/@thetradingmentality1804)  
-- LinkedIn: [fikayo-wale-olaitan](https://www.linkedin.com/in/fikayo-wale-olaitan)  
-
-> Prefer to keep direct email off public pages — add here if you want an email link visible.
-
+## 🎯 Outside of Work
+- 📖 I enjoy reading and writing about data, systems, and technology.  
+- ⚽ Big football fan, with side projects in sports analytics.  
+- 🌍 Passionate about communities, collaboration, and making data useful.
 ---
 
 # Visual stats & widgets
 <!-- GitHub-readme-stats & streaks (dynamic images) -->
 <div align="center">
-  <img alt="Fikayo's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=WillowyBoat2388&show_icons=true&theme=default&hide_border=true" />
-  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillowyBoat2388&layout=compact&hide_border=true" />
-</div>
-
----
-
-<div align="center">
-  <img src="./profile-hero.svg" alt="Profile hero" width="760" style="max-width:100%; border-radius:12px;" />
-</div>
-
----
-
-## Hi — I’m **Onidajo Fikayo** (Fikayo)  
-_Data & Platform Engineer · Architect_
-
-I build reliable data platforms and production pipelines — short, practical, focused.
-
----
-
-### Tech snapshot
-<img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=333&style=for-the-badge" alt="Python" />
-<img src="https://img.shields.io/badge/Polars-2EC866?style=for-the-badge" alt="Polars" />
-<img src="https://img.shields.io/badge/DuckDB-3399FF?style=for-the-badge" alt="DuckDB" />
-<img src="https://img.shields.io/badge/Dagster-7A5CFF?style=for-the-badge" alt="Dagster" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&style=for-the-badge" alt="Kubernetes" />
-
----
-
-### Projects (quick links + live stars)
-| Project | One line |
-|---|---|
-| [Bellabeat-Case-Study](https://github.com/WillowyBoat2388/Bellabeat-Case-Study) ![stars](https://img.shields.io/github/stars/WillowyBoat2388/Bellabeat-Case-Study?style=social) | Case study: data analysis |
-| [football-analytics](https://github.com/WillowyBoat2388/football-analytics) ![stars](https://img.shields.io/github/stars/WillowyBoat2388/football-analytics?style=social) | Sports analysis (mage-ai & Tableau) |
-| [Airflow_Snowflake_pipeline](https://github.com/WillowyBoat2388/Airflow_Snowflake_pipeline) ![stars](https://img.shields.io/github/stars/WillowyBoat2388/Airflow_Snowflake_pipeline?style=social) | Orchestrated ETL demo |
-| [Projects](https://github.com/WillowyBoat2388/Projects) ![stars](https://img.shields.io/github/stars/WillowyBoat2388/Projects?style=social) | Misc scripts & notebooks |
-| [cloud-computing](https://github.com/WillowyBoat2388/cloud-computing) ![stars](https://img.shields.io/github/stars/WillowyBoat2388/cloud-computing?style=social) | Static hosting exercise |
-<div style="display:flex; gap:12px; flex-wrap:wrap;">
-  <div style="width:320px; padding:12px; border-radius:10px; background:#ffffff11;">
-    <h3><a href="https://github.com/WillowyBoat2388/Bellabeat-Case-Study">Bellabeat Case Study</a></h3>
-    <p style="margin:6px 0; font-size:13px; color:#e6f0ff">Data analysis project.</p>
-    <p style="margin:6px 0; font-size:12px; color:#cfeeff">Tech: Python · SQL</p>
-  </div>
-  
-  <div style="width:320px; padding:12px; border-radius:10px; background:#ffffff11;">
-    <h3><a href="https://github.com/WillowyBoat2388/Airflow_Snowflake_pipeline">MWAA Orchestrated ETL</a></h3>
-    <p style="margin:6px 0; font-size:13px; color:#e6f0ff">Data analysis project.</p>
-    <p style="margin:6px 0; font-size:12px; color:#cfeeff">Tech: Python · SQL</p>
-  </div>
-  
-  <div style="width:320px; padding:12px; border-radius:10px; background:#ffffff11;">
-    <h3><a href="https://github.com/WillowyBoat2388/cloud-computing">Cloud Static Hosted Site</a></h3>
-    <p style="margin:6px 0; font-size:13px; color:#e6f0ff">Data analysis project.</p>
-    <p style="margin:6px 0; font-size:12px; color:#cfeeff">Tech: Python · SQL</p>
-  </div>
-  
-  <div style="width:320px; padding:12px; border-radius:10px; background:#ffffff11;">
-    <h3><a href="https://github.com/WillowyBoat2388/Bellabeat-Case-Study">Bellabeat Case Study</a></h3>
-    <p style="margin:6px 0; font-size:13px; color:#e6f0ff">Data analysis project.</p>
-    <p style="margin:6px 0; font-size:12px; color:#cfeeff">Tech: Python · SQL</p>
-  </div>
-  
-  <div style="width:320px; padding:12px; border-radius:10px; background:#ffffff11;">
-    <h3><a href="https://github.com/WillowyBoat2388/Bellabeat-Case-Study">Bellabeat Case Study</a></h3>
-    <p style="margin:6px 0; font-size:13px; color:#e6f0ff">Data analysis project.</p>
-    <p style="margin:6px 0; font-size:12px; color:#cfeeff">Tech: Python · SQL</p>
-  </div>
-  
-</div>
-
----
-
-<div align="center">
   <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=WillowyBoat2388&show_icons=true&theme=dark&hide_border=true" />
   <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WillowyBoat2388&layout=compact&hide_border=true&theme=dark" />
 </div>
 
----
-
-### Links
-- Firm: https://bdatanet.tech  
-- Blog: https://beyonddatanetworks.substack.com/  
-- YouTube: https://www.youtube.com/@thetradingmentality1804  
-- LinkedIn: https://www.linkedin.com/in/fikayo-wale-olaitan
