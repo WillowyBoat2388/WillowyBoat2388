@@ -20,6 +20,19 @@
   <p>
 
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=WillowyBoat2388&label=Profile%20views&color=3d12a6&style=for-the-badge" alt="Profile views" />
+  
+  <!-- Snake eating contributions -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WillowyBoat2388/WillowyBoat2388/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WillowyBoat2388/WillowyBoat2388/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WillowyBoat2388/WillowyBoat2388/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+---
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Data%20is%20the%20new%20oil%2C%20but%20platforms%20are%20the%20refineries&author=Onidajo%20Fikayo" />
 </div>
@@ -73,29 +86,17 @@ I design and operate scalable data infrastructure and platforms — with a parti
 
 # Tech stack & specialties
 ### Tech snapshot
-<img src="https://img.shields.io/badge/Python-FFD43B?logo=python&logoColor=333&style=for-the-badge" alt="Python" />
-<img src="https://img.shields.io/badge/Polars-2EC866?style=for-the-badge" alt="Polars" />
-<img src="https://img.shields.io/badge/DuckDB-3399FF?style=for-the-badge" alt="DuckDB" />
-<img src="https://img.shields.io/badge/Dagster-7A5CFF?style=for-the-badge" alt="Dagster" />
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&style=for-the-badge" alt="Kubernetes" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&color=3d12a6" />
+  <img src="https://img.shields.io/badge/Polars-CD792C?style=for-the-badge&color=050a30&logoColor=f4f6fc" />
+  <img src="https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&color=3d12a6&logoColor=f4f6fc" />
+  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white&color=050a30" />
+</p>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,kubernetes,docker,aws,mongodb,github&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=py,kubernetes,docker,aws,terraform,github,azure,airflow&perline=3&theme=dark" />
   <br/>
-  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Current+Stack&lineCount=2&line1=Python,Polars,DuckDB,Dagster;&line2=Kubernetes,Terraform,AWS,Docker;&theme=github_dark&titleColor=3d12a6&bg=050a30&border=f4f6fc" />
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=WillowyBoat2388&label=Profile%20views&color=3d12a6&style=for-the-badge" alt="Profile views" />
-  
-  <!-- Snake eating contributions -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/WillowyBoat2388/WillowyBoat2388/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/WillowyBoat2388/WillowyBoat2388/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/WillowyBoat2388/WillowyBoat2388/output/github-contribution-grid-snake.svg">
-  </picture>
+<!--   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Stack&lineCount=2&line1=Python,Polars,DuckDB,Airflow;&line2=Kubernetes,Terraform,AWS,Azure,Docker;&theme=github_dark&titleColor=3d12a6&bg=050a30&border=f4f6fc" /> -->
 </div>
 
 ---
