@@ -81,7 +81,7 @@
     <!-- Strength 1 -->
     <g transform="translate(24,55)">
       <rect width="270" height="8" rx="4" fill="#f4f6fc" opacity="0.15"/>
-      <rect width="220" height="8" rx="4" fill="#f4f6fc"/>
+      <rect width="220" height="8" rx="4" fill="#3b82f6"/>
       <text x="0" y="28" fill="#f4f6fc" font-family="Segoe UI, system-ui, sans-serif" font-size="15" font-weight="600">
         Platform Design
       </text>
@@ -93,7 +93,7 @@
     <!-- Strength 2 -->
     <g transform="translate(24,115)">
       <rect width="270" height="8" rx="4" fill="#f4f6fc" opacity="0.15"/>
-      <rect width="240" height="8" rx="4" fill="#3d12a6"/>
+      <rect width="240" height="8" rx="4" fill="#10b981"/>
       <text x="0" y="28" fill="#f4f6fc" font-family="Segoe UI, system-ui, sans-serif" font-size="15" font-weight="600">
         Data Pipelines
       </text>
@@ -105,7 +105,7 @@
     <!-- Strength 3 -->
     <g transform="translate(24,175)">
       <rect width="270" height="8" rx="4" fill="#f4f6fc" opacity="0.15"/>
-      <rect width="200" height="8" rx="4" fill="#f4f6fc" opacity="0.8"/>
+      <rect width="200" height="8" rx="4" fill="#f59e0b"/>
       <text x="0" y="28" fill="#f4f6fc" font-family="Segoe UI, system-ui, sans-serif" font-size="15" font-weight="600">
         Developer Experience
       </text>
