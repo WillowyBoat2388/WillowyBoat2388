@@ -49,7 +49,7 @@
 I design and operate scalable data infrastructure and platforms — with a particular focus on fast, resilient pipelines, clean data models for analytics, and automation that keeps teams shipping confidently. I enjoy mentoring, documenting architecture clearly, and turning complex data flows into repeatable, trustworthy systems.
 
 - 💼 Co-founder at [Beyond Data Network](https://bdatanet.tech)  
-- ✍🏽 I write on [Beyond Data Networks Blog](https://blog.bdatanet.tech/)  
+- ✍🏽 I write on [Collective Analytics](https://blog.bdatanet.tech/)  
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/fikayowaleolaitan/)
 
 ---
