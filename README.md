@@ -12,10 +12,10 @@
 
   <!-- Brand / Links row -->
   <p>
-    <a href="https://bdatanet.tech" title="Beyond Data Networks — Firm"><img alt="Beyond Data Networks" src="https://img.shields.io/badge/Company-Beyond%20Data%20Networks-0ea5a2?logo=wordpress&style=for-the-badge" /></a>
+    <a href="https://home.bdatanet.tech" title="Beyond Data Network — Firm"><img alt="Beyond Data Network" src="https://img.shields.io/badge/Company-Beyond%20Data%20Networks-0ea5a2?logo=wordpress&style=for-the-badge" /></a>
     <a href="https://www.linkedin.com/in/fikayo-wale-olaitan" title="LinkedIn"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge" /></a>
-    <a href="https://beyonddatanetworks.substack.com/" title="Firm blog"><img alt="Blog" src="https://img.shields.io/badge/Blog-Substack-ff4500?style=for-the-badge" /></a>
-    <a href="https://www.youtube.com/@thetradingmentality1804" title="YouTube Channel"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Channel-c4302b?logo=youtube&style=for-the-badge" /></a>
+    <a href="https://blog.bdatanet.tech/" title="Collective Analytics"><img alt="Blog" src="https://img.shields.io/badge/Blog-Substack-ff4500?style=for-the-badge" /></a>
+    <!-- <a href="https://www.youtube.com/@thetradingmentality1804" title="YouTube Channel"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-Channel-c4302b?logo=youtube&style=for-the-badge" /></a> -->
   </p>
   <p>
 
@@ -48,9 +48,8 @@
 # About Me
 I design and operate scalable data infrastructure and platforms — with a particular focus on fast, resilient pipelines, clean data models for analytics, and automation that keeps teams shipping confidently. I enjoy mentoring, documenting architecture clearly, and turning complex data flows into repeatable, trustworthy systems.
 
-- 💼 Co-founder at [Beyond Data Networks](https://beyonddatanetworks.com)  
-- ✍🏽 I write on [Beyond Data Networks Blog](https://beyonddatanetworks.substack.com/)  
-- 🎥 I share ideas on my [YouTube channel](https://www.youtube.com/@thetradingmentality1804)  
+- 💼 Co-founder at [Beyond Data Network](https://bdatanet.tech)  
+- ✍🏽 I write on [Beyond Data Networks Blog](https://blog.bdatanet.tech/)  
 - 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/fikayowaleolaitan/)
 
 ---
@@ -97,7 +96,7 @@ I design and operate scalable data infrastructure and platforms — with a parti
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,kubernetes,docker,aws,terraform,github,azure,airflow&perline=3&theme=dark" />
   <br/>
-<!--   <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Stack&lineCount=2&line1=Python,Polars,DuckDB,Airflow;&line2=Kubernetes,Terraform,AWS,Azure,Docker;&theme=github_dark&titleColor=3d12a6&bg=050a30&border=f4f6fc" /> -->
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Stack&lineCount=2&line1=Python,Polars,DuckDB,Airflow;&line2=Kubernetes,Terraform,AWS,Azure,Docker;&theme=github_dark&titleColor=3d12a6&bg=050a30&border=f4f6fc" />
 </div>
 
 ---
